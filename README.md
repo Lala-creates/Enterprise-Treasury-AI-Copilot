@@ -377,9 +377,3 @@ It is **not** a replacement for professional legal, regulatory, compliance, trea
 # Author
 
 **Libo Luo**
-
-
-
-Capital Markets • Treasury • Basel III • AI Engineering
-
----
