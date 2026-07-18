@@ -378,9 +378,7 @@ It is **not** a replacement for professional legal, regulatory, compliance, trea
 
 **Libo Luo**
 
-Master of Management in Artificial Intelligence (MMAI)
 
-17+ years of Financial Services Transformation
 
 Capital Markets • Treasury • Basel III • AI Engineering
 
